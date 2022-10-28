@@ -1,0 +1,27 @@
+svg {
+  display: block;
+  margin: auto;
+}
+
+.choice-node {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 160px;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.diamond-rect {
+  transform-box: fill-box;
+  transform-origin: center;
+  transform: rotate(45deg);
+}
+
+.svg-container {
+  margin: 12px 0px;
+}

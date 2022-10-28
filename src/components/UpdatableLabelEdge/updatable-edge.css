@@ -1,0 +1,11 @@
+textarea.double-width {
+  width: 300px;
+  text-align: center;
+  background-color: transparent;
+  border: none;
+  z-index: 1001;
+}
+
+textarea.double-width:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}

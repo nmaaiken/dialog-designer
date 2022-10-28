@@ -1,0 +1,37 @@
+.delete-button__no-display button {
+  display: none;
+}
+
+.delete-button__no-display:hover button {
+  display: none;
+}
+
+h4 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.padding-top {
+  padding-top: 10px;
+}
+
+.fork-join-node {
+  width: 16px;
+  height: 72px;
+  background-color: black;
+}
+
+.crossbar1 {
+  width: 60px;
+  height: 4px;
+  background-color: black;
+  transform: rotate(30deg);
+}
+
+.crossbar2 {
+  position: absolute;
+  width: 60px;
+  height: 4px;
+  background-color: black;
+  transform: rotate(300deg);
+}
